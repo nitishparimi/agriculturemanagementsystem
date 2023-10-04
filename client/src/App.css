@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  
+  pointer-events: none;
+  
+  
+}
+
+
+
+.App-header {
+  background-color: #a6a9ae;
+  min-height: 20vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-body {
+  background-color: #d1d9e8;
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(9, 9, 9);
+
+}
+
+.App-Login {
+  background-color: #79480f;
+  padding: 100px;
+  border-radius: 30px;
+  width: 0%;
+  height: 90%;
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(13, 13, 13);
+}
+
+
+
